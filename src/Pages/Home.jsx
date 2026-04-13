@@ -9,7 +9,7 @@ import Navbar from '../Components/Navbar'
 function Home() {
   return <>
     <Navbar/>
-    <main>
+    <main id="home">
       <HeroSections/>
       <AiTypes/>
       <AiBenefits/>
